@@ -1,0 +1,1 @@
+ssh ryan@l03.ryan.net 'cat setup-manta.sh' | sh -ax
